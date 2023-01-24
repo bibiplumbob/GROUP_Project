@@ -16,13 +16,18 @@ royals_age <- royal_data |>
   filter(lifespan < 700)
 
 #filtering spouse vs lifespan
-n_spouse_scatter <- royals_age |>
+violin_plot <- royals_age |>
   filter(!is.na(num_spouses))|>
+  filter(num_spouses <= 3)|>
   ggplot()+
-  aes(x = num_spouses, y = lifespan)+
-  geom_point()+
+  aes(x = as.factor(num_spouses), y = lifespan)+
+  geom_violin(aes(fill = as.factor(num_spouses)), show.legend = FALSE)+
+  theme(text = element_text(family = "serif"))+
   labs(title = "Impact of number of spouses on the lifespan of royalty")+
   xlab("Number of spouses")+
-  ylab("Lifespan in Years")
+  ylab("Lifespan in Years")+
+  geom_boxplot(width = 0.1)
 
-print(n_spouse_scatter)
+print(violin_plot)
+
+ggsave("spouse_lifespan_violin.pdf")
