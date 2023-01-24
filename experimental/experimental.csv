@@ -1,0 +1,3 @@
+status,emotion,the_word,num_of_emotes
+tired,"['frustrated', 'exhausted']",tired,2
+hungry,"['annoyed', 'cranky']",hungry,2

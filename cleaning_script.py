@@ -51,8 +51,18 @@ for dict in royal_data:
 #with open('cleaned_royalty.json', 'w') as f:
  #   json.dump(royal_data, f)
 
-with open ('The_10k_royal_set.csv','w') as file:
-    file.write('title,ontology/title,ontology/predecessor_label,ontology/successor_label,ontology/parent_label,ontology/deathPlace_label,ontology/birthPlace_label,ontology/spouse_label,ontology/birthYear,ontology/deathYear,ontology/birthDate,ontology/deathDate\n')
-    for name in royal_data:
-        file.write(f"{name['title']},{name['ontology/title']},{name['ontology/predecessor_label']},{name['ontology/successor_label']},{name['ontology/parent_label']},{name['ontology/deathPlace_label']},{name['ontology/birthPlace_label']},{name['ontology/birthYear']},{name['ontology/deathYear']},{name['ontology/birthDate']},{name['ontology/deathDate']}\n")
+#with open ('The_10k_royal_set.csv','w') as file:
+#Labels to be used
+        #title
+        #ontology/title,
+        #ontology/deathPlace_label -- new key pick the last value in the list
+            #Death_place
+        #ontology/birthPlace_label -- split this and pick the last value in the list
+            #Birth_place
+        #ontology/spouse_label -- count the number of strings
+            #Num_Spouses
+        #ontology/birthYear,
+        #ontology/deathYear,
+        #ontology/birthDate,
+        #ontology/deathDate
 
