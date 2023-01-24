@@ -34,5 +34,25 @@ for label in royal_data:
     if 'ontology/occupation' in label:
         del label['ontology/occupation']
 
-with open('cleaned_royalty.json', 'w') as f:
-    json.dump(royal_data, f)
+print(len(royal_data))
+
+#Checking if there's sufficient data with the helpful labels
+death_year_counter = 0
+birth_year_counter = 0
+for dict in royal_data:
+    if "ontology/deathYear" in dict:
+        death_year_counter += 1
+        if "ontology/birthYear" in dict:
+            birth_year_counter += 1
+
+#print(f"Data with death year is: {death_year_counter}")
+#print(f"Data with birth year is: {birth_year_counter}")
+
+#with open('cleaned_royalty.json', 'w') as f:
+ #   json.dump(royal_data, f)
+
+with open ('The_10k_royal_set.csv','w') as file:
+    file.write('title,ontology/title,ontology/predecessor_label,ontology/successor_label,ontology/parent_label,ontology/deathPlace_label,ontology/birthPlace_label,ontology/spouse_label,ontology/birthYear,ontology/deathYear,ontology/birthDate,ontology/deathDate\n')
+    for name in royal_data:
+        file.write(f"{name['title']},{name['ontology/title']},{name['ontology/predecessor_label']},{name['ontology/successor_label']},{name['ontology/parent_label']},{name['ontology/deathPlace_label']},{name['ontology/birthPlace_label']},{name['ontology/birthYear']},{name['ontology/deathYear']},{name['ontology/birthDate']},{name['ontology/deathDate']}\n")
+
