@@ -42,8 +42,17 @@ for dict in royal_data:
         if "ontology/deathYear" in dict:
             birth_death_year.append(dict)
 
-#with open('final_royalty.json', 'w', encoding= 'utf-8') as f:
-#    json.dump(birth_death_year, f)
+
+
+#Convert string to numbers for the year values
+for dict in birth_death_year:
+    if type(dict["ontology/birthYear"]) is str:
+        dict["ontology/birthYear"] = int(dict["ontology/birthYear"])
+    if type(dict["ontology/deathYear"]) is str:
+        dict["ontology/deathYear"] = int(dict["ontology/deathYear"])
+
+with open('final_royalty.json', 'w', encoding= 'utf-8') as f:
+    json.dump(birth_death_year, f)    
 
 #PUT INTO A CSV FILE WITH DICTREADER
 import csv

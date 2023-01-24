@@ -21,7 +21,7 @@ Ang_Chan_II,King of Cambodia,Oudong,,,1792,1834
 Ang_Eng,King of Cambodia,,,,1772,1796
 Ang_Mey,Queen of Cambodia,Oudong,,,1815,1874
 Anna_Catherine_Constance_Vasa,,Germany,Warsaw,1,1619,1651
-Anna_Diogenissa,,,Constantinople,,1074,0012
+Anna_Diogenissa,,,Constantinople,,1074,12
 Anna_Isabella_Gonzaga,,Guastalla,Italy,1,1655,1703
 "Anna_Jagiellon,_Duchess_of_Pomerania",,Pomerania,Nieszawa,1,1476,1503
 Anna_Karolina_Orzelska,"['Countess Orzelska', 'Princess of Schleswig-Holstein-Sonderburg-Beck']",France,Polish–Lithuanian Commonwealth,1,1707,1769
@@ -234,7 +234,7 @@ Auguste_of_Schleswig-Holstein-Sonderburg-Glücksburg,Duchess consort of Schleswi
 "Augustus,_Grand_Duke_of_Oldenburg",,Oldenburg (Oldenburg),Rastede,3,1783,1853
 "Augustus_George,_Margrave_of_Baden-Baden",Margrave of Baden-Baden,Rastatt,Rastatt,1,1706,1771
 "Aveline_de_Forz,_Countess_of_Aumale",,,Holderness,1,1259,1274
-Avinita,,,,,0469,0529
+Avinita,,,,,469,529
 Ayn-al-Hayat_Rifaat,,France,Egypt,1,1858,1910
 Ayşe_Hafsa_Sultan,,Constantinople,Havsa,1,1479,1534
 Ayşe_Hatun_(wife_of_Osman_II),,Istanbul,Istanbul,1,1607,1640
@@ -256,8 +256,8 @@ Abraham_Janssen,,,,,1699,1765
 Abu_Bakr_Atiku,Sultan of Sokoto,Sokoto,,,1782,1842
 Abu_Inan_Faris,"['Sultan of Morocco', 'Amīr al-Muminīn']",,,,1329,1358
 Abu_al-Abbas_Ahmad_II,Caliph of Ifriqiya,,,,1329,1394
-Adelaide-Blanche_of_Anjou,,Avignon,,5,0940,1026
-"Adelaide_I,_Abbess_of_Quedlinburg",,Quedlinburg Abbey,,,0977,1044
+Adelaide-Blanche_of_Anjou,,Avignon,,5,940,1026
+"Adelaide_I,_Abbess_of_Quedlinburg",,Quedlinburg Abbey,,,977,1044
 "Adelaide_II,_Abbess_of_Quedlinburg",,Quedlinburg Abbey,,,1045,1096
 Adelaide_of_Hesse,,,,1,1324,1371
 Adelaide_of_Hungary_(d._1140),Duchess consort of Bohemia,,,1,1105,1140
@@ -293,7 +293,7 @@ Akile_Hatun,,Istanbul,Istanbul,1,1607,1630
 Al-Mustakfi_I_(Cairo),,,,,1285,1340
 Al-Mustansir_(Baghdad),,Baghdad,Baghdad,,1192,1242
 Al-Mutawakkil_II,,,,,1416,1497
-Al-Muwaffaq,Regent (de facto) of theAbbasid Caliphate,,,,0842,0891
+Al-Muwaffaq,Regent (de facto) of theAbbasid Caliphate,,,,842,891
 Al-aman_Mirza,Shahzadaof theMughal Empire,Badakhshan,Badakhshan,,1528,1528
 Al_Bandari_bint_Abdulaziz_Al_Saud,,Riyadh,,,1928,2008
 Alavi_Thangal,,Presidencies and provinces of British India,Tarim Yemen,,1752,1845
@@ -369,18 +369,18 @@ Boris_Kalamanos,,,Kievan Rus',1,1114,1154
 Boček_IV_of_Poděbrady,,Kłodzko,,,1442,1496
 Brograve_Beauchamp,,,,,1897,1976
 "Bruno,_3rd_Prince_of_Ysenburg_and_Büdingen",Prince of Ysenburg and Büdingen,Büdingen,Büdingen,,1837,1906
-Bruttia_Crispina,Augusta,Capri,Roman Empire,1,0164,0191
+Bruttia_Crispina,Augusta,Capri,Roman Empire,1,164,191
 Bukar_Kura_of_Borno,,Kanem-Bornu Empire,,,1830,1884
 Burgravine_Louise_Isabelle_of_Kirchberg,Princess consort of Nassau-Weilburg,Austrian Empire,Hachenburg,1,1772,1827
 Burhaneddin_Cem,Prince of the Ottoman Empire,United States,Istanbul,,1920,2008
-Butuga_II,,,,,0938,0961
+Butuga_II,,,,,938,961
 Béatrice_Hiéronyme_de_Lorraine,Abbess of Remiremont,France,,,1662,1738
 Béatrix_de_Cusance,"['Baroness of Belvoir and de Saint-Julien', 'Princess consort de Cantecroix', 'Madame de Lorraine']",Besançon,,1,1614,1663
 Bülbül_Hatun,,Istanbul,,1,1452,1515
 Badr_bin_Abdulaziz_Al_Saud,,,,,1932,2013
 Badshah_Begum,,Delhi,,1,1703,1789
 Bagrat_III_of_Imereti,,,,,1495,1565
-Bagrat_II_of_Iberia,,,,,0937,0994
+Bagrat_II_of_Iberia,,,,,937,994
 Bahman_Mirza_Qajar,,Karabakh,Tehran,,1810,1884
 Bahram_Mirza,,Tehran,,,1806,1882
 Baibars,,Bahri dynasty,Cumania,,1223,1277
@@ -435,8 +435,8 @@ Christine_of_Mecklenburg-Güstrow,,Gedern,Güstrow,,1663,1749
 Christoph_Johann_von_Medem,,Russian Empire,Mežotne,,1763,1838
 Christopher_of_Baden-Durlach,,Karlsruhe,Karlsburg Castle,1,1684,1723
 Chueang,King of Ngoenyang Kingdom,Sip Song Chau Tai,Phayao,,1125,1192
-Chuzi_I,,,,,-0708,-0698
-Chuzi_II,,,,,0389,-0385
+Chuzi_I,,,,,-708,-698
+Chuzi_II,,,,,389,-385
 Claire-Clémence_de_Maillé-Brézé,"['Princess of Condé', 'Duchess of Fronsac']",France,Brézé,1,1628,1694
 Clara_Maria_of_Pomerania-Barth,,Hitzacker,Franzburg,1,1574,1623
 Claude_Françoise_de_Lorraine,Duchess of Lorraine,Austria,Palace of the Dukes of Lorraine,,1612,1648
@@ -450,7 +450,7 @@ Colman_O'Loghlen,,,,,1819,1877
 Consolidation_of_Pedro_II_of_Brazil,,France,Paço de São Cristóvão,1,1825,1891
 Consort_Donggo,,,,1,1639,1660
 Consort_Dun,,,,1,1746,1806
-Consort_Li_(Zhenzong),,Henan,Zhejiang,1,0987,1032
+Consort_Li_(Zhenzong),,Henan,Zhejiang,1,987,1032
 Consort_Shu,,,,1,1728,1777
 Consort_Wan,,,,1,1428,1487
 Constance_of_Aragon,,,,2,1179,1222
@@ -551,7 +551,7 @@ Cemile_Sultan,,Istanbul,Beylerbeyi Palace,,1843,1915
 "Cesare_d'Este,_Duke_of_Modena",Duke of Modena and Reggio,Ferrara,Ferrara,1,1553,1597
 Cevherriz_Hanımefendi,,Turkey,North Caucasus,1,1863,1940
 Chabi,,,,1,1227,1281
-Chai_Rong,EmperorShizong of(Later) Zhou,Henan,Hebei,2,0921,0959
+Chai_Rong,EmperorShizong of(Later) Zhou,Henan,Hebei,2,921,959
 Changning_(prince),Prince Gong of the First Rank,,,,1657,1703
 Chantal_de_Chevron-Villette,"['Duchess of Castro', 'Princess of Bourbon-Two Sicilies']",France,France,1,1925,2005
 "Charles,_6th_Prince_of_Löwenstein-Wertheim-Rosenberg",Prince of Löwenstein-Wertheim-Rosenberg,Weimar Republic,Bor (Tachov District),1,1834,1921
@@ -619,7 +619,7 @@ Dorothea_of_Anhalt-Zerbst,,Hitzacker,Zerbst,1,1607,1634
 "Dorothea_of_Denmark,_Electress_Palatine",,Neumarkt in der Oberpfalz,Copenhagen,1,1520,1580
 Dorothea_von_Medem,,,,1,1761,1821
 Dorothy_Catherine_of_Brandenburg-Ansbach,,Toužim,Ansbach,,1538,1604
-Dou_Jiande,,,,,0573,0621
+Dou_Jiande,,,,,573,621
 Duanhua,Prince Zheng of the First Rank,,,,1807,1861
 Duchess_Agnes_of_Württemberg,Princess Reuss Younger Line,Principality of Reuss-Gera,Pokój Opole Voivodeship,1,1835,1886
 Duchess_Alexandra_Petrovna_of_Oldenburg,Grand Duchess Alexandra Petrovna of Russia,Kiev,Saint Petersburg,1,1838,1900
@@ -661,15 +661,15 @@ Duchess_Sophie_of_Prussia,Duchess consort of Courland and Semigallia,Duchy of Co
 Duchess_Therese_Petrovna_of_Oldenburg,Princess Therese Petrovna of Leuchtenberg,Saint Petersburg,Saint Petersburg,1,1852,1883
 Duchess_Therese_of_Mecklenburg-Strelitz,Princess of Thurn and Taxis,Kingdom of Bavaria,Electorate of Brunswick-Lüneburg,1,1773,1839
 Duchess_Violante_Beatrice_of_Bavaria,,Palazzo Pitti,Electorate of Bavaria,1,1673,1731
-Dugu_Qieluo,,,,1,0544,0602
+Dugu_Qieluo,,,,1,544,602
 Duke_Alexander_Petrovich_of_Oldenburg,Duke Alexander Petrovich of Oldenburg,France,Saint Petersburg,1,1844,1932
 Duke_Alexander_of_Württemberg_(1804–1881),,Kingdom of Bavaria,Riga,1,1804,1881
 Duke_Carl_Alexander_of_Württemberg,,Altshausen,Stuttgart,,1896,1964
 Duke_Charles_Louis_Frederick_of_Mecklenburg,Prince of Mirow,Mirow,Mecklenburg-Strelitz (district),1,1708,1752
 Duke_Christian_Louis_of_Mecklenburg,,Germany,Grand Duchy of Mecklenburg-Schwerin,1,1912,1996
 Duke_Constantine_Petrovich_of_Oldenburg,Duke Constantine Petrovich of Oldenburg,France,Saint Petersburg,,1850,1906
-Duke_Dao_of_Jin,Duke Dao of Jin,,,,-0586,-0558
-Duke_De_of_Qin,,,,,-0710,-0676
+Duke_Dao_of_Jin,Duke Dao of Jin,,,,-586,-558
+Duke_De_of_Qin,,,,,-710,-676
 Duke_Elimar_of_Oldenburg,Duke of Oldenburg,Erlau,Oldenburg (Oldenburg),,1844,1895
 Duke_Ernest_Gottlob_of_Mecklenburg,,,Mirow,,1742,1814
 Duke_Eugen_of_Württemberg_(1758–1822),,Meiningen,Margraviate of Brandenburg,1,1758,1822
@@ -679,8 +679,8 @@ Duke_Eugen_of_Württemberg_(1846–1877),,Kingdom of Prussia,Principality of Sch
 Duke_Franz_Joseph_in_Bavaria,Duke in Bavaria,Kingdom of Bavaria,Tegernsee Abbey,,1888,1912
 Duke_George_Augustus_of_Mecklenburg,,Trnava,Mirow,,1748,1785
 Duke_George_of_Oldenburg,Duke George of Oldenburg,Tver,Oldenburg (Oldenburg),1,1784,1812
-Duke_Huan_of_Tian_Qi,,,,,-0400,-0357
-Duke_Jian_of_Qin,,,,,-0428,-0400
+Duke_Huan_of_Tian_Qi,,,,,-400,-357
+Duke_Jian_of_Qin,,,,,-428,-400
 Duke_Louis_of_Mecklenburg-Schwerin,,Duchy of Mecklenburg-Schwerin,Grabow,1,1725,1778
 Duke_Ludwig_Wilhelm_in_Bavaria_(1831–1920),Duke in Bavaria,,,2,1831,1920
 Duke_Ludwig_Wilhelm_in_Bavaria_(1884–1968),,Kreuth,Tegernsee Abbey,,1884,1968
@@ -696,12 +696,12 @@ Duke_Robert_of_Württemberg,Duke Robert of Württemberg,Altshausen,Merano,1,1873
 Duke_Siegfried_August_in_Bavaria,Duke Siegfried August in Bavaria,West Germany,Kingdom of Bavaria,,1876,1952
 Duke_Wilhelm_in_Bavaria,"['Duke in Bavaria', 'Count Palatine of Birkenfeld-Gelnhausen']",Kingdom of Bavaria,Palatinate-Birkenfeld-Gelnhausen,1,1752,1837
 Duke_William_Frederick_Philip_of_Württemberg,Duke of Württemberg,Kernen,Szczecin,,1761,1830
-Duke_Xian_of_Qin_(424–362_BC),,,,,-0424,-0362
-Duke_Xian_of_Qin_(725–704_BC),,,,,-0725,-0704
+Duke_Xian_of_Qin_(424–362_BC),,,,,-424,-362
+Duke_Xian_of_Qin_(725–704_BC),,,,,-725,-704
 Dürrüaden_Kadınefendi,,Istanbul,Sochi,1,1860,1909
 Dürrünev_Kadınefendi,,Feriye Palace,Russian Empire,1,1835,1895
 Düzdidil_Hanımefendi,,Istanbul,North Caucasus,1,1825,1845
-Dương_Vân_Nga,Empress Đại Thắng Minh,Hoa Lư,,2,0952,1000
+Dương_Vân_Nga,Empress Đại Thắng Minh,Hoa Lư,,2,952,1000
 Dafydd_ap_Gruffydd,"['Prince of Wales', 'Prince of Aberffraw and Lord of Snowdon']",Shrewsbury,Wales,1,1238,1283
 Dafydd_ap_Llywelyn,"['Prince of Wales', 'Prince of Aberffraw and Lord of Snowdon']",Abergwyngregyn,Coleshill,1,1212,1246
 Daišan,Prince Li of the First Rank,Beijing,,,1583,1648
@@ -726,7 +726,7 @@ Edward_Mackay_Edgar,,,,,1876,1934
 Edward_Manningham-Buller,,,,,1800,1882
 Edward_des_Bouverie,,,,,1690,1736
 Edward_of_Angoulême,,Kingdom of France,Château d'Angoulême,,1365,1370
-Edward_the_Elder,,England,England,,0871,0924
+Edward_the_Elder,,England,England,,871,924
 "Ekaterine_Dadiani,_Princess_of_Mingrelia",Princess Regent ofMingrelia,,Cinandali_estates,,1816,1882
 "Eleanor,_Princess_of_Asturias",Princess of Asturias,La Espina,Burgos,,1423,1425
 Eleanor_Margaret_Green,Princess Viggo Countess of Rosenborg,,,,1895,1966
@@ -758,7 +758,7 @@ Elisabeth_of_Brandenburg-Küstrin,Margravine of Brandenburg-Ansbach,Warsaw,Kostr
 "Elisabeth_of_Brunswick-Wolfenbüttel,_Duchess_of_Saxe-Altenburg",Duchess of Saxe-Altenburg,Altenburg,Wolfenbüttel,2,1593,1650
 "Elisabeth_of_Hesse,_Hereditary_Princess_of_Saxony",,Schmalkalden,Marburg,1,1502,1557
 Elisabeth_of_Mecklenburg-Güstrow,,Doberlug-Kirchhain,Güstrow,1,1668,1738
-Elisabeth_of_Moravia,Margravine of Meissen,Meissen,Brno,1,1355,0020
+Elisabeth_of_Moravia,Margravine of Meissen,Meissen,Brno,1,1355,20
 Elisabeth_of_Swabia,,Toro Zamora,Nuremberg,1,1205,1235
 "Elisabeth_of_the_Palatinate,_Landgravine_of_Hesse",,Baden-Baden,Heidelberg,2,1483,1522
 Elisabeth_von_Gutmann,Princess consort of Liechtenstein,Vitznau,Vienna,1,1875,1947
@@ -782,7 +782,7 @@ Elizabeth_of_Rhuddlan,Countess of Hereford,England,Wales,2,1282,1316
 Ella_Koblo_Gulama,Paramount Chiefof Kaiyamba ChiefdomMoyamba District,Moyamba,Moyamba,1,1921,2006
 Ellen_Franz,Freifrau von Heldburg,Meiningen,Naumburg,1,1839,1923
 Elvina_Pallavicini,Princess,Cortina d'Ampezzo,Genoa,,1914,2004
-"Elvira_of_Castile,_Queen_of_León",,,,1,0978,1017
+"Elvira_of_Castile,_Queen_of_León",,,,1,978,1017
 Eléanor_de_Roucy_de_Roye,,Château de Condé,France,1,1535,1564
 Elżbieta_Konstancja_Potulicka,,Kraków,Berlin,1,1859,1947
 "Emanuele_Ruspoli,_1st_Prince_of_Poggio_Suasa",1st Prince ofPoggio Suasa,Kingdom of Italy,Papal States,1,1837,1899
@@ -794,36 +794,36 @@ Emilie_of_Saxony,Margravine of Brandenburg-Ansbach,Ansbach,Freiberg,1,1516,1591
 Emina_Ilhamy,,Bebek Istanbul,Istanbul,1,1858,1931
 Emine_Gülbahar_Hatun,"['Valide-i macide', ""Meliketü'l-Melikât"", ""Tâcü'l-mükerremât"", ""Fahrü'l-muazzamat"", ""Fatihetü'l-maeyâmin ve'l hayrat""]",Constantinople,,1,1432,1492
 Emine_Nazikedâ_Kadınefendi,,Egypt,Tsebelda,1,1866,1941
-Emma_of_Italy,,Kingdom of Burgundy,Kingdom of Italy (Holy Roman Empire),2,0948,0988
+Emma_of_Italy,,Kingdom of Burgundy,Kingdom of Italy (Holy Roman Empire),2,948,988
 "Emmanuel_Maurice,_Duke_of_Elbeuf",Duke of Elbeuf,France,France,,1677,1763
 "Emmanuel_Philibert,_Prince_of_Carignano",Prince of Carignano,Turin,France,1,1628,1709
 Emmanuel_Théodose_de_La_Tour_d'Auvergne_(1668–1730),Duke of Bouillon,,,3,1668,1730
-Emperor_Fei_of_Northern_Qi,,,,,0545,0561
-Emperor_Jing_of_Liang,,,,,0544,0558
-Emperor_Jing_of_Northern_Zhou,,,,,0573,0581
-Emperor_Muzong_of_Tang,,,,,0795,0824
+Emperor_Fei_of_Northern_Qi,,,,,545,561
+Emperor_Jing_of_Liang,,,,,544,558
+Emperor_Jing_of_Northern_Zhou,,,,,573,581
+Emperor_Muzong_of_Tang,,,,,795,824
 Emperor_Taizong_of_Jin,,,,,1075,1135
-Emperor_Wenxuan_of_Northern_Qi,,,,,0526,0559
-Emperor_Xiaojing_of_Eastern_Wei,,,,1,0524,0552
-Emperor_Xiaomin_of_Northern_Zhou,,,,,0542,0557
-Emperor_Xiaowu_of_Northern_Wei,,,,1,0510,0535
+Emperor_Wenxuan_of_Northern_Qi,,,,,526,559
+Emperor_Xiaojing_of_Eastern_Wei,,,,1,524,552
+Emperor_Xiaomin_of_Northern_Zhou,,,,,542,557
+Emperor_Xiaowu_of_Northern_Wei,,,,1,510,535
 Emperor_Xizong_of_Jin,,,,,1119,1150
-Emperor_Xuan_of_Northern_Zhou,,,,1,0559,0580
-Emperor_Yuan_of_Liang,,,,,0508,0555
-Emperor_Zhenzong,,,,3,0968,1022
-Empress_Dowager_Du,Empress DowagerZhaoxian ofSong,Henan,Hebei,1,0902,0961
-Empress_Fu_the_Elder,the Xuanyi Empress of(Later) Zhou,Henan,,1,0931,0956
-Empress_Li_(Taizong),,Henan,Shanxi,1,0960,1004
+Emperor_Xuan_of_Northern_Zhou,,,,1,559,580
+Emperor_Yuan_of_Liang,,,,,508,555
+Emperor_Zhenzong,,,,3,968,1022
+Empress_Dowager_Du,Empress DowagerZhaoxian ofSong,Henan,Hebei,1,902,961
+Empress_Fu_the_Elder,the Xuanyi Empress of(Later) Zhou,Henan,,1,931,956
+Empress_Li_(Taizong),,Henan,Shanxi,1,960,1004
 Empress_Li_Fengniang,,,,1,1144,1200
-Empress_Liu_(Zhenzong),,Henan,Jia Prefecture,,0969,1033
+Empress_Liu_(Zhenzong),,Henan,Jia Prefecture,,969,1033
 Empress_Meng,,,,1,1073,1131
-Empress_Shulü_Ping,,,,1,0879,0953
-Empress_Song_(Song_dynasty),,Henan,Henan,1,0952,0995
-Empress_Wang_(Taizu),Empress Xiaoming ofSong,Henan,Shaanxi,1,0942,0963
+Empress_Shulü_Ping,,,,1,879,953
+Empress_Song_(Song_dynasty),,Henan,Henan,1,952,995
+Empress_Wang_(Taizu),Empress Xiaoming ofSong,Henan,Shaanxi,1,942,963
 Empress_Wanrong,,Jilin,Beijing,1,1906,1946
 Empress_Wu_(Song_dynasty),,,,1,1115,1197
-Empress_Xiao_(Sui_dynasty),,Chang'an,Jiangling County,1,0566,0648
-Empress_Xiao_Yanyan,Empress Dowager Chengtian of Liao,,,1,0953,1009
+Empress_Xiao_(Sui_dynasty),,Chang'an,Jiangling County,1,566,648
+Empress_Xiao_Yanyan,Empress Dowager Chengtian of Liao,,,1,953,1009
 Empress_Xiaodexian,,,,1,1831,1850
 Empress_Xiaoherui,,,,1,1776,1850
 Empress_Xiaohuizhang,,,,1,1641,1718
@@ -967,7 +967,7 @@ Friedrich_Franz_von_Hohenlohe-Waldenburg-Schillingsfürst,Friedrich Franz von Ho
 "Friedrich_Wilhelm_III,_Duke_of_Saxe-Altenburg",,Altenburg,Altenburg,,1657,1672
 Frédéric_Maurice_Casimir_de_La_Tour_d'Auvergne,Prince of Turenne,,,1,1702,1723
 Fujiwara_no_Genshi,,,,1,1016,1039
-Fujiwara_no_Kenshi_(Sanjō),,,,1,0994,1027
+Fujiwara_no_Kenshi_(Sanjō),,,,1,994,1027
 Fulco_Ruffo_di_Calabria,6th Duke of Guardia Lombarda,Massa,Kingdom of Italy,,1884,1946
 Fuquan_(prince),"['Prince Yu of the First Rank', '(裕親王)']",,,,1653,1703
 Fahad_bin_Saud_bin_Abdulaziz_Al_Saud,"['Saudi Prince', 'Former Minister of Defense', 'Son ofKing Saud']",Al Adl cemetery,Riyadh,,1923,2006
@@ -1039,17 +1039,17 @@ Ghulam_Muhammad_Ali_Khan,Nawab of Arcot,,,,1882,1952
 Gian_Carlo_de'_Medici,,,Palazzo Pitti,,1611,1663
 Gideon_Kailipalaki_Laanui,,Oahu,Waialua Hawaii,,1840,1871
 Gideon_Peleioholani_Laanui,,Waialua Hawaii,Waimea Hawaii County Hawaii,1,1797,1849
-Gaius_Julius_Verus_Maximus,Caesarof theRoman Empire,Aquileia,,,0217,0238
-Galla_(wife_of_Theodosius_I),,,,1,0370,0394
-Gao_Baorong,3rd king ofJingnan,,,,0920,0960
-Gao_Baoxu,4th king ofJingnan,,,,0924,0962
-Gao_Cheng,,,,1,0521,0549
-Gao_Huan,,,,1,0496,0547
-Gao_Wei,,,,,0557,0577
+Gaius_Julius_Verus_Maximus,Caesarof theRoman Empire,Aquileia,,,217,238
+Galla_(wife_of_Theodosius_I),,,,1,370,394
+Gao_Baorong,3rd king ofJingnan,,,,920,960
+Gao_Baoxu,4th king ofJingnan,,,,924,962
+Gao_Cheng,,,,1,521,549
+Gao_Huan,,,,1,496,547
+Gao_Wei,,,,,557,577
 "Garsenda,_Countess_of_Forcalquier","['Countess of Provence', 'Countess of Forcalquier']",,,1,1180,1242
 Giovanni_de'_Medici_(cardinal),Cardinal of the Holy Roman Church,Livorno,Italy,,1544,1562
 Gisela_Agnes_of_Anhalt-Köthen,Princess consort of Anhalt-Dessau,Dessau,Köthen (Anhalt),1,1722,1751
-Gisela_of_Swabia,,Imperial Palace of Goslar,,3,0989,1043
+Gisela_of_Swabia,,Imperial Palace of Goslar,,3,989,1043
 Gleb_Svyatoslavich,,Veliky Novgorod,,,1052,1078
 "Godefroy_Maurice_de_La_Tour_d'Auvergne,_Duke_of_Bouillon",Duke of Bouillon,Hôtel de Chimay,,1,1636,1721
 Godefroy_de_La_Tour_d'Auvergne,Duke of Bouillon,Château de Navarre,Paris,1,1728,1792
@@ -1083,9 +1083,9 @@ Gryfina_of_Halych,,,,1,1248,1309
 "Guidobaldo_II_della_Rovere,_Duke_of_Urbino",,Duchy of Urbino,Duchy of Urbino,,1514,1574
 Guidobaldo_da_Montefeltro,,Duchy of Urbino,Duchy of Urbino,1,1472,1508
 Gunilla_Bielke,,,,1,1568,1597
-Gunnora,,,,1,0936,0005
-Guo_Wei,EmperorTaizu of(Later) Zhou,Henan,Hebei,,0904,0954
-Guo_Zongxun,EmperorGong of(Later) Zhou,,Qingfeng County,,0953,0973
+Gunnora,,,,1,936,5
+Guo_Wei,EmperorTaizu of(Later) Zhou,Henan,Hebei,,904,954
+Guo_Zongxun,EmperorGong of(Later) Zhou,,Qingfeng County,,953,973
 Gurun_Princess_Hexiao,,,,1,1775,1823
 Gurun_Princess_Shou'an,,,Beijing,,1826,1860
 "Gustav,_Duke_of_Zweibrücken",,Zweibrücken,Stegeborg Castle,,1670,1731
@@ -1109,7 +1109,7 @@ Hessa_bint_Salman_Al_Khalifa,,Bahrain,Al-Sakhir Palace,1,1928,2009
 Hoolulu,,,,,1794,1844
 Hoysala_Vinayaditya,,,,,1047,1098
 Hoşyar_Kadınefendi,,Istanbul,Russian Empire,1,1825,1849
-Huan_Shu_of_Quwo,,,,,-0802,-0731
+Huan_Shu_of_Quwo,,,,,-802,-731
 Hugh_De_Monte_Alto,,,,,1050,1130
 Hugh_Evelyn,,,,,1769,1848
 Hugh_Magnus,,Compiègne,,,1007,1025
@@ -1138,7 +1138,7 @@ Hedvig_Elisabeth_Charlotte_of_Holstein-Gottorp,,Stockholm,Eutin,1,1759,1818
 "Hedwig,_Abbess_of_Quedlinburg",,Quedlinburg,Meissen,,1445,1511
 "Hedwig_Jagiellon,_Electress_of_Brandenburg",,Neuruppin,Poznań,1,1513,1573
 Hedwig_of_Denmark,,Electorate of Saxony,Frederiksborg Castle,1,1581,1641
-"Hedwig_of_France,_Countess_of_Mons",Countess of Mons,,,1,0970,1013
+"Hedwig_of_France,_Countess_of_Mons",Countess of Mons,,,1,970,1013
 Hedwig_of_Holstein,,,,1,1260,1324
 Hedwig_of_Kalisz,,Stary Sącz,,1,1266,1339
 Hedwig_of_Mecklenburg-Güstrow,,Zörbig,Güstrow,1,1666,1735
@@ -1163,7 +1163,7 @@ Helena_Pedersdatter_Strange,Queen consort of Sweden,,,1,1200,1255
 Helena_of_Moscow,,Braslaw,Moscow Kremlin,1,1476,1513
 Helvis_of_Brunswick-Grubenhagen,,,,1,1353,1421
 Helvis_of_Ibelin,,,,2,1178,1216
-Hemma,,Duchy of Bavaria,Duchy of Bavaria,1,0803,0876
+Hemma,,Duchy of Bavaria,Duchy of Bavaria,1,803,876
 "Henri,_Count_of_Brionne",Count of Brionne,France,,,1661,1713
 "Henri,_Duke_of_Elbeuf",Duke of Elbeuf,France,France,,1661,1748
 "Henri_Louis,_Prince_of_Guéméné",Prince of Guéméné,Sychrov Castle,France,1,1745,1809
@@ -1175,7 +1175,7 @@ Henriette_Louise_de_Bourbon,Abbess of Beaumont-lès-Tours,,Palace of Versailles,
 "Henry,_Duke_of_Schleswig",,,,,1342,1375
 "Henry_Frederick,_Hereditary_Prince_of_the_Palatinate",Electoral Prince of the Palatinate,Haarlemmermeer,,,1614,1629
 Henry_Hibbert,,,,,1850,1927
-"Henry_II,_Holy_Roman_Emperor",,Kingdom of Germany,Kingdom of Germany,,0973,1024
+"Henry_II,_Holy_Roman_Emperor",,Kingdom of Germany,Kingdom of Germany,,973,1024
 "Henry_II,_Margrave_of_Meissen","['Margrave of Meissen', 'Margrave of the Ostmark']",,,1,1103,1123
 Henry_II_of_England,,Château de Chinon,Le Mans,1,1133,1189
 "Henry_IV,_Burgrave_of_Plauen",,Stadtsteinach,,,1510,1554
@@ -1221,7 +1221,7 @@ Imperial_Noble_Consort_Ronghui,,,,1,1854,1933
 Imperial_Noble_Consort_Zhuanghe,,,,1,1857,1921
 Imperial_Noble_Consort_Zhuangshun,,,,1,1822,1866
 Imru_Haile_Selassie,Leul Ras,Addis Ababa,Shire Ethiopia,1,1892,1980
-Indra_IV,,,,,0973,0982
+Indra_IV,,,,,973,982
 "Infanta_Adelgundes,_Duchess_of_Guimarães","['Countess of Bardi', 'Duchess of Guimarães']",Bern,Wertheim am Main,1,1858,1946
 Infanta_Benedita_of_Portugal,Princess of BrazilDuchess of Braganza(more...),Kingdom of Portugal,Kingdom of Portugal,1,1746,1829
 Infanta_Blanca_of_Spain,Archduchess of Austria; Princess of Hungary Bohemia and Tuscany,Tuscany,Styria,1,1868,1949
@@ -1264,8 +1264,8 @@ Irina_Godunova,,Novodevichy Convent,,1,1557,1603
 Irina_Paley,,,,1,1903,1990
 Irina_Yusupova,,Cormeilles,Saint Petersburg,,1915,1983
 Çiçek_Hatun,,Egypt,Muradiye Complex,1,1443,1498
-Đinh_Bộ_Lĩnh,"['Emperor ofĐại Cồ Việt', 'Emperor Đại Thắng Minh']",Hoa Lư,Gia Viễn District,1,0924,0979
-Đinh_Phế_Đế,Emperor ofĐại Cồ Việt,,,,0974,1001
+Đinh_Bộ_Lĩnh,"['Emperor ofĐại Cồ Việt', 'Emperor Đại Thắng Minh']",Hoa Lư,Gia Viễn District,1,924,979
+Đinh_Phế_Đế,Emperor ofĐại Cồ Việt,,,,974,1001
 Isaac_Davis_(Hawaii),High ChiefAikake,Kingdom of Hawaii,Pembrokeshire,,1758,1810
 "Isabel_Luísa,_Princess_of_Beira",Princess of Beira,Palhavã,Ribeira Palace,,1669,1690
 "Isabel_Maria_de_Alcântara,_Duchess_of_Goiás","['Duchess of Goiás', 'Countess of Treuberg', 'Baroness of Holsen']",Kingdom of Bavaria,Empire of Brazil,,1824,1898
@@ -1292,7 +1292,7 @@ Isabella_of_Savoy,Hereditary Princess of Modena,,,1,1591,1626
 Isabella_of_Viseu,Duchess of Braganza,,,1,1451,1521
 Ismail_Chirine,,Alexandria,Alexandria,1,1919,1994
 Ismihan_Sultan,,Istanbul,Manisa,1,1544,1585
-Itzamnaaj_K'awiil,KingofDos Pilas,,,,0025,0726
+Itzamnaaj_K'awiil,KingofDos Pilas,,,,25,726
 Ivan_Asen_IV_of_Bulgaria,,,,,1326,1349
 Izabela_Maria_Lubomirska,,,Przeworsk,1,1808,1868
 Jin_Yunying,,China,Beijing,1,1913,1992
@@ -1448,9 +1448,9 @@ Kapaakea,High Chief of Hawaii,Kingdom of Hawaii,Kuiaha,1,1815,1866
 Kapiʻolani_(chiefess),High Chiefess of Ka'ū and South Kona,Honolulu,Hilo Hawaii,1,1781,1841
 Karan_Singh_II,Ruler ofMewar,,Mewar,,1584,1628
 "Kardam,_Prince_of_Turnovo",Prince of Turnovo,Madrid,Madrid,,1962,2015
-Kardam_of_Bulgaria,Khan of Bulgaria,,,,0735,0803
+Kardam_of_Bulgaria,Khan of Bulgaria,,,,735,803
 Karin_Elisabeth_von_Schaper,Hereditary Grand Duchess of Mecklenburg-Schwerin,Glücksburg,Province of Lower Silesia,1,1920,2012
-Karka_II,,,,,0972,0973
+Karka_II,,,,,972,973
 "Karl,_Prince_of_Hohenzollern-Sigmaringen",Prince of Hohenzollern-Sigmaringen,Bologna,Sigmaringen,2,1785,1853
 "Karl,_Prince_of_Isenburg-Büdingen",Prince of Isenburg and Büdingen,,Birstein,1,1838,1899
 "Karl,_Prince_of_Leiningen",Prince of Leiningen,Saransk,Strasbourg,1,1898,1946
@@ -1479,15 +1479,15 @@ Khosrow_Jahanbani,,Switzerland,Pahlavi dynasty,,1942,2014
 Khosrow_Mirza,,,,,1811,1883
 Khusrau_Mirza,Mirza,,,,1587,1622
 Kilinahe,Ke Aliʻi,,Moanalua,,1802,1878
-King_Gong_of_Chu,King of Chu,,,,-0600,-0560
-King_Zhaoxiang_of_Qin,,,,,-0324,-0250
+King_Gong_of_Chu,King of Chu,,,,-600,-560
+King_Zhaoxiang_of_Qin,,,,,-324,-250
 Kinooleoliliha,High Chiefess Kinoole,Kingdom of Hawaii,Kingdom of Hawaii,1,1825,1855
-Klonimir,,Destinikon,Principality of Serbia (medieval),,0009,0896
+Klonimir,,Destinikon,Principality of Serbia (medieval),,9,896
 Konstantine_Bagration_of_Mukhrani_(1889–1915),Prince,Galicia (Eastern Europe),Russian Empire,1,1889,1915
-Kou_Zhun,,Leizhou,Weinan,,0961,1023
+Kou_Zhun,,Leizhou,Weinan,,961,1023
 "Kraft,_Prince_of_Hohenlohe-Langenburg",Prince of Hohenlohe-Langenburg,Langenburg,Schwäbisch Hall,,1935,2004
 Krishnaraja_Wadiyar_III,Maharaja of Mysore,Mysore,,,1794,1868
-Kudrat_Singh,Master CraftsmanJaipur,Germany,Jaipur,,0024,2002
+Kudrat_Singh,Master CraftsmanJaipur,Germany,Jaipur,,24,2002
 Kunigunde_of_Bohemia,,Prague,Prague,1,1265,1321
 Kunigunde_of_Hohenstaufen,,Prague,Swabia,1,1200,1248
 Kunigunde_of_Sternberg,,Poděbrady,Konopiště,1,1425,1449
@@ -1509,12 +1509,12 @@ Luluwah_bint_Abdulaziz_Al_Saud,,,,,1928,2008
 Luís_Fernando_de_Orleans_y_Borbón,,France,Madrid,,1888,1945
 "Léopold_Clément,_Hereditary_Prince_of_Lorraine",Hereditary Prince of Lorraine,Château de Lunéville,Château de Lunéville,,1707,1723
 Lê_Chiêu_Thống,Emperor of Vietnam,Beijing,Vietnam,,1765,1793
-Lê_Hoàn,Emperor ofĐại Cồ Việt,,,1,0941,1005
-Lê_Long_Đĩnh,"['Emperor of Vietnam', 'Đại Thắng Minh Quang Hiếu Hoàng đế']",,,,0986,1009
-Lê_Trung_Tông_(Early_Lê),King of Vietnam,,,,0983,1005
+Lê_Hoàn,Emperor ofĐại Cồ Việt,,,1,941,1005
+Lê_Long_Đĩnh,"['Emperor of Vietnam', 'Đại Thắng Minh Quang Hiếu Hoàng đế']",,,,986,1009
+Lê_Trung_Tông_(Early_Lê),King of Vietnam,,,,983,1005
 Lý_Anh_Tông,Emperor ofĐại Việt,Đại Việt,Đại Việt,,1136,1175
 Lý_Chiêu_Hoàng,,Đại Việt,Đại Việt,2,1218,1278
-Lý_Thái_Tổ,Emperor of Vietnam,Đại Việt,Đại Việt,,0974,1028
+Lý_Thái_Tổ,Emperor of Vietnam,Đại Việt,Đại Việt,,974,1028
 Lý_Thần_Tông,Emperor of Vietnam,,Hanoi,,1116,1138
 Lady_Brigid_Guinness,Princess Frederick of Prussia,England,England,1,1920,1995
 Lady_Calinica,,,,1,1367,1439
@@ -1559,28 +1559,28 @@ Leopoldine_von_Sternberg,Princess consort of Liechtenstein,Valtice,Habsburg Mona
 Levan_of_Kakheti,,,,1,1503,1574
 Levinus_Bennet,,,,,1631,1693
 Leyla_Achba,,Turkey,Istanbul,,1898,1931
-Li_Bian,,,,,0889,0943
-Li_Chengqi,,,,,0679,0742
-Li_Chongfu,"['Prince Tangchang 唐昌王', 'Prince Pingen 平恩王', 'Prince Qiao 譙王']",,,,0680,0710
-Li_Chongrun,Crown Prince Yide,,,1,0682,0701
-Li_Conghou,Emperor of (Later) Tang,Anyang,Taiyuan,1,0914,0934
-Li_Congke,,,,,0885,0936
-Li_Ezi,,,,1,0536,0588
-Li_Hong,,Luoyang,Chang'an,,0652,0675
-Li_Jiancheng,,,,,0589,0626
-Li_Jing_(Southern_Tang),EmperorYuanzong of(Southern) Tang,Nanchang,,1,0916,0961
-Li_Ke,"['Prince of Yulin', 'Prince of Wu']",,,,0619,0653
-Li_Keyong,,,,,0856,0908
-Li_Mao,Prince of Shou,,,1,0715,0775
-Li_Siyuan,EmperorMingzong of(Later) Tang,Henan,Shanxi,,0867,0933
-Li_Zhong,Crown Prince of Tang Dynasty,,,,0643,0665
-Liu_Chang_(Jixing),,,,1,0942,0980
-Liu_Chengyou,EmperorYin of(Later) Han,Henan,Ye (ancient China),,0931,0951
-Liu_Chong,EmperorShizu of(Northern) Han,Shanxi,Tang dynasty,,0895,0954
-"Liu_Fei,_Prince_of_Jiangdu",,,,,-0169,-0128
-Liu_Ruyi,Prince of Zhao,,,,-0208,-0194
-Liu_Zhiyuan,,,,,0895,0948
-Liutgard_of_Saxony,Queen of the Franks,,,2,0845,0885
+Li_Bian,,,,,889,943
+Li_Chengqi,,,,,679,742
+Li_Chongfu,"['Prince Tangchang 唐昌王', 'Prince Pingen 平恩王', 'Prince Qiao 譙王']",,,,680,710
+Li_Chongrun,Crown Prince Yide,,,1,682,701
+Li_Conghou,Emperor of (Later) Tang,Anyang,Taiyuan,1,914,934
+Li_Congke,,,,,885,936
+Li_Ezi,,,,1,536,588
+Li_Hong,,Luoyang,Chang'an,,652,675
+Li_Jiancheng,,,,,589,626
+Li_Jing_(Southern_Tang),EmperorYuanzong of(Southern) Tang,Nanchang,,1,916,961
+Li_Ke,"['Prince of Yulin', 'Prince of Wu']",,,,619,653
+Li_Keyong,,,,,856,908
+Li_Mao,Prince of Shou,,,1,715,775
+Li_Siyuan,EmperorMingzong of(Later) Tang,Henan,Shanxi,,867,933
+Li_Zhong,Crown Prince of Tang Dynasty,,,,643,665
+Liu_Chang_(Jixing),,,,1,942,980
+Liu_Chengyou,EmperorYin of(Later) Han,Henan,Ye (ancient China),,931,951
+Liu_Chong,EmperorShizu of(Northern) Han,Shanxi,Tang dynasty,,895,954
+"Liu_Fei,_Prince_of_Jiangdu",,,,,-169,-128
+Liu_Ruyi,Prince of Zhao,,,,-208,-194
+Liu_Zhiyuan,,,,,895,948
+Liutgard_of_Saxony,Queen of the Franks,,,2,845,885
 Ljubica_Vukomanović,,Vienna,Srezojevci,1,1788,1843
 Lord_Frederick_Cambridge,,,,,1907,1940
 "Louis,_Count_of_Armagnac",Count of Armagnac,France,France,,1641,1718
@@ -1608,10 +1608,10 @@ Louis_Henri_de_La_Tour_d'Auvergne,Count of Évreux,Élysée Palace,,,1679,1753
 "Louis_Victor,_Prince_of_Carignano",Prince of Carignano,Turin,Hôtel de Soissons,1,1721,1778
 "Louis_William,_Landgrave_of_Hesse-Homburg",,Luxembourg,Bad Homburg vor der Höhe,,1770,1839
 "Louis_d'Orléans,_Prince_of_Condé",Prince of Condé,Australia,Saint-Cloud,,1845,1866
-Louis_of_France_(1244–1260),,Paris,,,0021,1260
+Louis_of_France_(1244–1260),,Paris,,,21,1260
 Louis_of_France_(1264–1276),,Château de Vincennes,,,1264,1276
 Louis_of_Valois,Duke of Orléans,Mantes-la-Jolie,Paris,,1549,1550
-Louis_the_Stammerer,King of Western Francia,Compiègne,,,0846,0879
+Louis_the_Stammerer,King of Western Francia,Compiègne,,,846,879
 Louisa_Maria_Stuart,,,Château,,1692,1712
 Louise_Adélaïde_d'Orléans,Abbess of Chelles,Convent,Palace of Versailles,,1698,1743
 Louise_Adélaïde_de_Bourbon_(1696–1750),,,Hôtel de Conti,,1696,1750
@@ -1655,7 +1655,7 @@ Magdalene_Sibylle_of_Saxony,Princess of Denmark; Duchess of Saxe-Altenburg,Alten
 Magnus_Haraldsson_of_Norway,,Oslo,,,1135,1145
 "Magnus_I,_Duke_of_Mecklenburg",,,,,1345,1384
 "Magnus_II,_Duke_of_Saxe-Lauenburg",,Ratzeburg,,1,1543,1603
-Mahendrapala_I,,,,,0885,0910
+Mahendrapala_I,,,,,885,910
 Mahidevran_Gülbahar,,Ottoman Empire,Caucasus,1,1500,1582
 Mahmoud_Mirza,,Évian-les-Bains,Tehran,,1905,1988
 Mahmud_Namik_Efendi,His Imperial Highness Prince Şehzade Mahmud Namık Efendi,,Turkey,,1913,1963
@@ -1684,7 +1684,7 @@ Max_von_Hohenlohe,Prince ofHohenlohe-Langenburg,Marbella,Vienna,,1931,1994
 "Maximilian_Maria,_7th_Prince_of_Thurn_and_Taxis",Prince of Thurn and Taxis,Regensburg,Schloss Taxis,,1862,1885
 Maximilian_William_of_Brunswick-Lüneburg,,Archduchy of Austria,Iburg Castle,,1666,1726
 Maximiliana_of_Bavaria,,Munich,Nymphenburg Palace,,1810,1821
-Maximinus_Thrax,,Roman Italy,Moesia,,0173,0238
+Maximinus_Thrax,,Roman Italy,Moesia,,173,238
 Mediha_Sultan,,France,Istanbul,1,1856,1928
 Mehisti_Kadınefendi,,England,Adapazarı,1,1892,1964
 Mehmed_Orhan,,France,Constantinople,1,1909,1994
@@ -1692,7 +1692,7 @@ Mehmed_Selaheddin,Major-General H.I.H. Prince Mehmed Selaheddin,Istanbul,Istanbu
 Mehmed_Ziyaeddin,General H.I.H. Prince Mehmed Ziyaeddin,Egypt,Ortaköy,,1873,1938
 Mehtab_Kadınefendi,,Yıldız,Makhachkala,1,1830,1888
 Melek_Tourhan,,Heliopolis (Cairo suburb),Istanbul,1,1869,1956
-Meng_Zhixiang,,,,,0874,0934
+Meng_Zhixiang,,,,,874,934
 Merrik_Burrell,,,,,1699,1787
 Meyliservet_Kadınefendi,,Ortaköy,Batumu,1,1854,1891
 Mezide_Mestan_Kadınefendi,,Yıldız Palace,Ganja Azerbaijan,1,1869,1909
@@ -1852,7 +1852,7 @@ Marie_of_Lorraine,,Prince's Palace of Monaco,France,1,1674,1724
 "Marie_of_Prussia,_Margravine_of_Brandenburg-Bayreuth",,Bayreuth,Königsberg,1,1579,1649
 "Marie_of_Valois,_Prioress_of_Poissy",,Palais-Royal,Bois de Vincennes,,1393,1438
 "Mario_Ruspoli,_2nd_Prince_of_Poggio_Suasa",2nd Prince ofPoggio Suasa,Italy,United Principalities,,1867,1963
-Marquis_Wen_of_Jin,,,,,-0805,-0746
+Marquis_Wen_of_Jin,,,,,-805,-746
 Marta_Esther_Rocafort-Altuzarra,,,Havana,1,1913,1993
 Martanda_Bhairava_Tondaiman,Raja of Pudukkottai,France,Pudukkottai State,,1875,1928
 Martha_of_Armagnac,,Zaragoza,Armagnac (province),1,1347,1378
@@ -1870,12 +1870,12 @@ Mary_of_Waltham,Duchess of Brittany,,Hampshire,1,1344,1362
 Mary_of_Woodstock,,,Woodstock Palace,,1278,1332
 "María_Teresa_de_Borbón,_15th_Countess_of_Chinchón",Countess of Chinchón,France,Velada,1,1779,1828
 Mashhoor_bin_Saud_bin_Abdulaziz_Al_Saud,,,Riyadh,,1954,2004
-"Mathilde,_Abbess_of_Essen",,,,,0949,1011
-"Matilda,_Abbess_of_Quedlinburg",,Quedlinburg Abbey,,,0955,0999
+"Mathilde,_Abbess_of_Essen",,,,,949,1011
+"Matilda,_Abbess_of_Quedlinburg",,Quedlinburg Abbey,,,955,999
 "Matilda_of_Brandenburg,_Duchess_of_Brunswick-Lüneburg",Duchess consort of Brunswick-Lüneburg,,,1,1210,1261
 "Matilda_of_England,_Duchess_of_Saxony",,Braunschweig,England,1,1156,1189
 Matilda_of_Frisia,Queen consort of the Franks,Paris,,1,1024,1044
-"Matilda_of_Germany,_Countess_Palatine_of_Lotharingia",,Brauweiler Abbey,,1,0979,1025
+"Matilda_of_Germany,_Countess_Palatine_of_Lotharingia",,Brauweiler Abbey,,1,979,1025
 Matilda_of_Habsburg,,Munich,,1,1252,1304
 Milena_Vukotić,,France,Čevo,1,1847,1923
 Milton_Sharp,,,,,1856,1924
@@ -1885,7 +1885,7 @@ Mirza_Basheer-ud-Din_Mahmood_Ahmad,"['Leader of the Faithful', 'Promised Son']",
 Mirza_Jawan_Bakht,,Varanasi,Mughal Empire,,1749,1788
 Mirza_Nasir_Ahmad,"['Leader of the Faithful', 'Khalifatul Masih III']",Islamabad,Presidencies and provinces of British India,,1909,1982
 Mirza_Zafar,,,,,1876,1921
-Mohammad_Burhanuddin_(49th_Dai),,Surat,Surat,,0018,1906
+Mohammad_Burhanuddin_(49th_Dai),,Surat,Surat,,18,1906
 Mohammad_Reza_Pahlavi,"['50px', 'Shahanshah of Iran']",Egypt,Qajar dynasty,3,1919,1980
 Mohammad_Shammaa_Al_Zengi_III,Prince of Zengid Dynasty,,,,1983,1954
 Mohammed_Nadir_Shah,King of the God granted Kingdom of Afghanistan and its dependencies,Kingdom of Afghanistan,British Raj,1,1883,1933
@@ -1912,7 +1912,7 @@ Müveddet_Kadınefendi,,Bosphorus,Itanbul,1,1893,1951
 Müşfikâ_Kadınefendi,,Yıldız,Caucasus,1,1867,1961
 Nahienaena,,Oahu,Keauhou Bay,2,1815,1836
 Naile_Sultan,,Istanbul,Istanbul,,1856,1882
-Nandivarman_II,,,,,0720,0796
+Nandivarman_II,,,,,720,796
 Nasir-ud-Din_Haidar_Shah,KingofOudh,Lucknow,,,1803,1837
 Natalia_Alexeievna_(Wilhelmina_Louisa_of_Hesse-Darmstadt),Tsesarevna of Russia,Saint Petersburg,Prussia,1,1755,1776
 Natalia_Androsova,Princess Romanovskaya-Iskander of Russia,Russia,Russian Soviet Federative Socialist Republic,,1917,1999
@@ -1930,7 +1930,7 @@ Nevdür_Hanımefendi,,Turkey,Batumii,1,1861,1927
 Nevvare_Hanımefendi,,Derbent,Derbent,1,1901,1992
 Nevzad_Hanımefendi,,Turkey,Istanbul,1,1902,1992
 Neşerek_Kadınefendi,,Feriye Palace,Russian Empire,1,1848,1876
-Ngô_Quyền,,,,,0897,0944
+Ngô_Quyền,,,,,897,944
 Nicholas_II_Garai,Palatine of Hungary;Ban of Croatia Dalmatia and Slavonia,,,1,1367,1433
 Nicholas_of_Ilok,King of Bosnia;Ban of MacsóCroatia Slavonia and Dalmatia;Voivode of Transylvania,,Ilok,,1410,1477
 "Nicolas_Henri,_Duke_of_Orléans",Duke of Orleans,,,,1607,1611
@@ -1952,13 +1952,13 @@ Nükhetsezâ_Hanımefendi_(wife_of_Abdülmecid_I),,Istanbul,Russian Empire,1,182
 Olga_Feodorovna_of_Baden,Grand Duchess Olga Fyodorovna of Russia,Russian Empire,Karlsruhe,1,1839,1891
 "Olympia_Mancini,_Countess_of_Soissons",Countess of Soissons,Brussels,,1,1638,1708
 Opoku_Ware_II,Asantehene of Asanteman;Kumasehene of Kumasi,Ashanti Region,Ashanti Protectorate,,1919,1999
-Ordoño_IV_of_León,,Córdoba Andalusia,,1,0926,0962
+Ordoño_IV_of_León,,Córdoba Andalusia,,1,926,962
 Osei_Tutu_Agyeman_Prempeh_II,Asantehene of Asanteman;Kumasehene of Kumasi,Kumasi,Ashanti Empire,,1892,1970
 Osei_Yaw_Akoto,Asantehene of Asanteman;Kumasehene of Kumasi,Ashanti Empire,Ashanti Empire,,1800,1834
 Osman_Fuad,H.I.H. Prince Osman Fuad,France,Istanbul,,1895,1973
 Ottilie_of_Katzenelnbogen,,Baden-Baden,Starkenburg_(Burg),1,1453,1517
 Otto_Christian_Archibald_von_Bismarck,,Friedrichsruh,Schönhausen,,1897,1975
-"Otto_I,_Holy_Roman_Emperor",,Memleben,East Francia,2,0912,0973
+"Otto_I,_Holy_Roman_Emperor",,Memleben,East Francia,2,912,973
 "Otto_III,_Margrave_of_Brandenburg",Margrave of Brandenburg,Brandenburg an der Havel,,1,1215,1267
 "Otto_V,_Duke_of_Bavaria",,,,1,1346,1379
 Owen_de_la_Pole,Lord of Powys,,England,1,1257,1293
@@ -1994,7 +1994,7 @@ Petre_Bagration-Gruzinsky,,Tbilisi,,,1857,1922
 Petre_Gruzinsky,,Georgian Soviet Socialist Republic,,,1920,1984
 Peyveste_Hanımefendi,,France,Russian Empire,1,1873,1944
 Phat_Kanhol,,Phnom Penh,,1,1920,1969
-Pang_Ji_(Song_dynasty),,Kaifeng,Chengwu County,,0988,1063
+Pang_Ji_(Song_dynasty),,Kaifeng,Chengwu County,,988,1063
 Pari_Khan_Khanum,,Qazvin,Ahar,1,1548,1578
 Park_Goff,,,,,1871,1939
 Parshuram_Pant_Pratinidhi,,Aundh State,Satara (city),,1660,1718
@@ -2020,7 +2020,7 @@ Philippa_of_Guelders,,Pont-à-Mousson,Grave Netherlands,1,1467,1547
 Philippe_François_Armand_Marie_de_Noailles,,,,1,1922,2011
 Philippe_Jules_Mancini,Duke of Nevers,France,Papal States,1,1641,1707
 Philippine_Élisabeth_d'Orléans,Mademoiselle de Beaujolais,Château de Bagnolet Paris,Palace of Versailles,,1714,1734
-Philippus_II,,Rome,,,0238,0249
+Philippus_II,,Rome,,,238,249
 Phạm_Ngũ_Lão,,Đại Việt,Đại Việt,,1255,1320
 Polyxena_of_Hesse-Rotenburg,,Royal Palace of Turin,Bad Schwalbach,1,1706,1735
 Poomaikelani,Princess of Hawaii,Kalihi,Hilo Hawaii,1,1839,1895
@@ -2291,7 +2291,7 @@ Princess_Amélie_Louise_of_Arenberg,,Kingdom of Bavaria,Southern Netherlands,1,1
 Princess_Anastasia_of_Georgia,,Saint Petersburg,Martqopi,,1763,1838
 Princess_Anastasia_of_Greece_and_Denmark,,England,United States,1,1878,1923
 Princess_Anka_Obrenović,,Belgrade,Serbia,,1821,1868
-Princess_Anle,,,Shiyan,,0684,0710
+Princess_Anle,,,Shiyan,,684,710
 Princess_Anna_Maria_of_Sweden,,,,1,1545,1610
 Princess_Anna_Sophie_of_Denmark,,Prettin,Flensburg,1,1647,1717
 Princess_Anna_of_Hesse_and_by_Rhine,Grand Duchess consort of Mecklenburg-Schwerin,Grand Duchy of Mecklenburg-Schwerin,Grand Duchy of Hesse,1,1843,1865
@@ -2563,13 +2563,13 @@ Princess_Mathilde_Caroline_of_Bavaria,Grand Duchess of Hesse,,,1,1813,1862
 Princess_Mathilde_Sophie_of_Oettingen-Oettingen_and_Oettingen-Spielberg,,County of Tyrol,Oettingen in Bayern,1,1816,1886
 Princess_Mathilde_of_Bavaria_(1877–1906),Princess Ludwig of Saxe-Coburg and Gotha,Davos,Villa_Amsee,1,1877,1906
 Princess_Mathilde_of_Saxony_(1863–1933),Princess Mathilde of Saxony,Dresden,Kingdom of Saxony,,1863,1933
-Princess_Mathilde_of_Waldeck_and_Pyrmont,,Silesia,Rhoden,1,0010,1825
+Princess_Mathilde_of_Waldeck_and_Pyrmont,,Silesia,Rhoden,1,10,1825
 Princess_Nadejda_Petrovna_of_Russia,,France,,,1898,1988
 Princess_Nadezhda_of_Bulgaria,Duchess of Württemberg,West Germany,Principality of Bulgaria,,1899,1958
 Princess_Nina_Georgievna_of_Russia,Princess Paul Aleksandrovich Chavchavadze,Massachusetts,New Michael Palace,,1901,1974
 Princess_Olga_of_Hanover_(1884–1958),,Austria,Austria,,1884,1958
 Princess_Ortrud_of_Schleswig-Holstein-Sonderburg-Glücksburg,Princess of Hanover Duchess of Brunswick,,Flensburg,1,1925,1980
-Princess_Pan,,Henan,Hunan,1,0968,0989
+Princess_Pan,,Henan,Hunan,1,968,989
 Princess_Paula_of_Brazil,,Empire of Brazil,Empire of Brazil,,1823,1833
 "Princess_Pauline,_Duchess_of_Sagan","['Duchess of Sagan', 'Princess of Hohenzollern-Hechingen']",Austrian Empire,Jelgava,1,1782,1845
 Princess_Pauline_of_Anhalt-Bernburg,,Detmold,Ballenstedt,1,1769,1820
@@ -2616,13 +2616,13 @@ Princess_Xenia_Andreevna_of_Russia,,,France,,1919,2000
 Princess_Xenia_of_Montenegro,Princess of Montenegro,France,Cetinje,,1881,1960
 Princess_Élisabeth_Charlotte_of_Lorraine,Princess of Lorraine,Château de Lunéville,Palace of the Dukes of Lorraine,,1700,1711
 Pākī,,Oahu,Molokai,2,1808,1855
-Qian_Hongzuo,,Hangzhou,Hangzhou,1,0928,0947
-Qian_Yuanguan,,,,,0887,0941
+Qian_Hongzuo,,Hangzhou,Hangzhou,1,928,947
+Qian_Yuanguan,,,,,887,941
 Qigong_(artist),,Beijing,Republic of China (1912–49),,1912,2005
 Queen_Ansun,,,,1,1445,1499
 Queen_Dangyeong,Queen Consort of Joseon,,,1,1487,1557
 Queen_Gonghye,Queen Consort of Joseon,,,1,1456,1474
-Queen_Heonae,,Kaesong,Hwangju County,2,0964,1029
+Queen_Heonae,,Kaesong,Hwangju County,2,964,1029
 Queen_Hyoui,,Changgyeonggung,,1,1753,1821
 Queen_Ingyeong,,Changdeokgung,,1,1661,1680
 Queen_Inhyeon,,Changdeokgung,Yeoju,1,1667,1701
@@ -2642,19 +2642,19 @@ Queen_Munjeong,Queen Consort of Korea,Seoul,Joseon,1,1501,1565
 Queen_Myeongseong,Queen Consort of Joseon,Changdeokgung,,1,1642,1684
 Queen_Seonui,Queen Consort of Joseon,Changdeokgung,,1,1705,1730
 Queen_Uiin,Queen Consort of Joseon,,,1,1555,1600
-Queen_Zhou_the_Elder,Queen Zhaohui of(Southern) Tang,Jiangsu,Jiangsu,1,0936,0964
+Queen_Zhou_the_Elder,Queen Zhaohui of(Southern) Tang,Jiangsu,Jiangsu,1,936,964
 Robert_Hobart,,,,,1836,1928
 "Robert_Hugo,_Duke_of_Parma",Duke of Parma,Austria,Weilburg,,1909,1974
 Robert_Ropner,,,,,1838,1924
 Robert_Young_(Hawaii),,Bermuda,Kawaihae Hawaii,,1796,1813
-Robert_of_Vermandois,,,,,0907,0967
+Robert_of_Vermandois,,,,,907,967
 Robin_Medforth-Mills,,Switzerland,England,1,1942,2002
 Roger_Cave,,,,,1655,1703
 Roland_Bonaparte,,Paris,Paris,1,1858,1924
 Rostislav_Vsevolodovich,Prince of Pereyaslavl,,,,1070,1093
 Rostislav_of_Tmutarakan,"['(izgoi)', 'Prince ofTmutarakan']",Tmutarakan,,,1038,1066
 Rowland_Hodge,,,,,1859,1950
-Rozala_of_Italy,,Ghent,,2,0937,1003
+Rozala_of_Italy,,Ghent,,2,937,1003
 "Rudolf,_6th_Prince_Kinsky_of_Wchinitz_and_Tettau",Prince Kinsky of Wchinitz and Tettau,Austrian Empire,Kingdom of Bohemia,,1802,1836
 "Rudolf,_9th_Prince_Kinsky_of_Wchinitz_and_Tettau",Prince Kinsky of Wchinitz and Tettau,Leszno,Heřmanův Městec,,1859,1930
 Rumeysa_Aredba,,Turkey,Abkhazia,,1873,1929
@@ -2704,11 +2704,11 @@ Shahoji_II,,British Raj,,,1910,1983
 Shahriar_Shafiq,,France,Rabat,,1945,1979
 Shambhu_Singh,Ruler ofUdaipur State,,,,1847,1874
 Shams_Pahlavi,Princess of Iran,United States,Tehran,1,1917,1996
-Shangguan_Wan'er,,Chang'an,Chang'an,1,0664,0710
+Shangguan_Wan'er,,Chang'an,Chang'an,1,664,710
 Shehu_Abubakar,,England,Gombe Gombe,,1938,2014
-Shi_Chonggui,Emperor of (Later) Jin,Chaoyang Liaoning,Taiyuan,1,0914,0974
-Shi_Jingtang,EmperorGaozu of(Later) Jin,Ye (ancient China),Shanxi,1,0892,0942
-Shi_Siming,,,,1,0703,0761
+Shi_Chonggui,Emperor of (Later) Jin,Chaoyang Liaoning,Taiyuan,1,914,974
+Shi_Jingtang,EmperorGaozu of(Later) Jin,Ye (ancient China),Shanxi,1,892,942
+Shi_Siming,,,,1,703,761
 Shivaji_V,,British Raj,,,1941,1946
 Shivajirao_Holkar,,British Raj,British Raj,,1859,1908
 Shivakiar_Ibrahim,,Kingdom of Egypt,Istanbul,2,1876,1947
@@ -2867,7 +2867,7 @@ Sipihr_Shikoh,Shahzada of theMughal Empire,Delhi,Agra,1,1644,1708
 "Sir_Hugh_Cholmeley,_4th_Baronet",,,,,1632,1689
 "Sir_Hugh_Innes,_1st_Baronet",,,,,1764,1831
 "Sir_Hugh_Owen,_5th_Baronet",,,,,1731,1786
-"Sir_Hugh_Paterson,_2nd_Baronet",,Scotland,Stirlingshire,,1685,0023
+"Sir_Hugh_Paterson,_2nd_Baronet",,Scotland,Stirlingshire,,1685,23
 "Sir_Hugh_Shaw_Stewart,_8th_Baronet",,,,,1854,1942
 "Sir_Hugh_Stewart,_2nd_Baronet",,,,,1792,1854
 "Sir_Hyde_Parker,_8th_Baronet",,,,,1785,1856
@@ -3118,7 +3118,7 @@ Sittişah_Hatun,,Edirne,Turkey,1,1435,1467
 Sophia_Dorothea_of_Schleswig-Holstein-Sonderburg-Glücksburg,"['Electress consort of Brandenburg', 'Duchess consort of Brunswick-Lüneburg']",Karlovy Vary,Glücksburg,2,1636,1689
 Sophia_Duleep_Singh,,Tylers Green,Elveden Hall,,1876,1948
 Sophia_Eleonore_of_Saxony,Landgravine of Hesse-Darmstadt,,,1,1609,1671
-"Sophia_I,_Abbess_of_Gandersheim",,Gandersheim Abbey,,,0975,1039
+"Sophia_I,_Abbess_of_Gandersheim",,Gandersheim Abbey,,,975,1039
 "Sophia_Jagiellon,_Duchess_of_Brunswick-Lüneburg",,Schöningen,Poland,1,1522,1575
 "Sophia_Jagiellon,_Margravine_of_Brandenburg-Ansbach",,Ansbach,Poland,1,1464,1512
 Sophia_Louise_of_Mecklenburg-Schwerin,,Schwerin Palace,Grabow,1,1685,1735
@@ -3172,7 +3172,7 @@ Suzanne_Henriette_of_Lorraine,,France,France,1,1686,1710
 Sven_Hansen,,,,,1876,1958
 Sylvia_Brett,,,Central London,1,1885,1971
 Synadene,Queen consort of Hungary,,,,1058,1082
-Theodora_(6th_century),Empressof theByzantine Empire,Constantinople,Cyprus,1,0500,0548
+Theodora_(6th_century),Empressof theByzantine Empire,Constantinople,Cyprus,1,500,548
 "Theodore_Eustace,_Count_Palatine_of_Sulzbach",Count Palatine of Sulzbach,Dinkelsbühl,Sulzbach-Rosenberg,1,1659,1732
 Theresa_Benedicta_of_Bavaria,Princess of Bavaria,Frankfurt,Nymphenburg Palace,,1725,1743
 Therese_of_Saxe-Hildburghausen,Queen of Bavaria,Kingdom of Bavaria,Straufhain,1,1792,1854
@@ -3184,9 +3184,9 @@ Thomas_Thornhill,,,,,1802,1892
 Thuận_Thiên_(Nguyễn_dynasty_empress),Empress Thuận Thiên,Phú Xuân,Hương Trà District,1,1769,1846
 Thuận_Thiên_(Trần_dynasty_empress),Empress Thuận Thiên,Đại Việt,Yên Mỹ,2,1216,1248
 Théodolinde_de_Beauharnais,"['Princess of Leuchtenberg', 'Countess of Württemberg']",Kingdom of Württemberg,Kingdom of Italy (Napoleonic),1,1814,1857
-Théodrate_of_Troyes,,,,1,0868,0903
+Théodrate_of_Troyes,,,,1,868,903
 Tirimüjgan_Kadınefendi,,Feriye Palace,Armenia,1,1819,1852
-Toljen_of_Hum,,,,1,0012,0013
+Toljen_of_Hum,,,,1,12,13
 Trehawke_Kekewich,,,,,1851,1932
 Trần_Anh_Tông,Emperor of Vietnam,Đại Việt,Đại Việt,,1276,1320
 Trần_Bình_Trọng,Marquis Bảo Nghĩa,Đại Việt,Đại Việt,,1259,1285
@@ -3276,11 +3276,11 @@ Violant_of_Bar,Queen consort of AragonValenciaMajorca andSardinia and Corsica;Co
 Vittoria_Farnese_d'Este,Duchess of Modena and Reggio,Modena,Parma,1,1618,1649
 Vittoria_della_Rovere,,Grand Duchy of Tuscany,Duchy of Urbino,1,1622,1694
 Vladislaus_II_of_Hungary,,Buda,Kingdom of Poland (1385–1569),3,1456,1516
-"Waleran_II,_Lord_of_Ligny",,,,,0013,1354
+"Waleran_II,_Lord_of_Ligny",,,,,13,1354
 "Waleran_III,_Count_of_Ligny",,Azincourt,,,1355,1415
 Walter_Borrowes,,,,,1691,1741
-Wang_Rong,,,,,0877,0921
-Wang_Yan_(Former_Shu),,,,,0899,0926
+Wang_Rong,,,,,877,921
+Wang_Yan_(Former_Shu),,,,,899,926
 "Wartislaw_IX,_Duke_of_Pomerania",,Wolgast,,,1400,1457
 "Wartislaw_VI,_Duke_of_Pomerania",,Klępino Białogardzkie,,,1345,1394
 Wei_Changhui,North King of the Heavenly Kingdom,,,,1823,1856
@@ -3324,33 +3324,33 @@ Władysław_Leon_Sapieha,,Lviv,Krasiczyn,1,1853,1920
 "Xavier,_Duke_of_Aquitaine",Duke of Aquitaine,France,France,,1753,1754
 Xenia_of_Tarusa,"['Grand Princess consort of Vladimir', 'Princess consort of Tver']",,,1,1246,1312
 Xhelal_Bey_Zogu,,France,Burgajet Castle,,1881,1944
-Xiao_Ji,,,,,0508,0553
-Xiao_Tong,Crown Prince of Liang Dynasty,,,1,0501,0531
+Xiao_Ji,,,,,508,553
+Xiao_Tong,Crown Prince of Liang Dynasty,,,1,501,531
 Xie_Daoqing,,,,1,1210,1283
-Xiqi,,,,,-0665,-0651
+Xiqi,,,,,-665,-651
 Xolilizwe_Mzikayise_Sigcawu,,,Nqadu_Great_Palace,,1926,2005
-Yuchi_Chifan,,,,1,0566,0595
+Yuchi_Chifan,,,,1,566,595
 Yunli,Prince Guo of the First Rank,,,,1697,1738
 Yuntang,,,,,1683,1726
 Yury_of_Zvenigorod,,,Pereslavl-Zalessky,1,1374,1434
 Yusuf_Izzettin_Efendi,"['Field Marshal of Inf.Ottoman Army', 'Cdt of the Imperial Guard Ottoman Army']",Istanbul,Istanbul,,1857,1916
-Yuwen_Tai,Emperor ofNorthern Zhou,,,,0507,0556
+Yuwen_Tai,Emperor ofNorthern Zhou,,,,507,556
 Yıldız_Hanımefendi,,Istanbul,North Caucasus,1,1842,1880
-Yang_Hao_(Sui_dynasty),,,,,0586,0618
-Yang_Lihua,"['Princess Leping 樂平公主 (586–609)', 'prev. Great Empress Tianyuan 天元大皇后 (578–579)']",,,1,0561,0609
-Yang_Longyan,,,,,0897,0920
-Yang_Pu,,,,,0900,0939
-Yang_Tong,,,,,0605,0619
-Yang_Wo,,,,,0886,0908
+Yang_Hao_(Sui_dynasty),,,,,586,618
+Yang_Lihua,"['Princess Leping 樂平公主 (586–609)', 'prev. Great Empress Tianyuan 天元大皇后 (578–579)']",,,1,561,609
+Yang_Longyan,,,,,897,920
+Yang_Pu,,,,,900,939
+Yang_Tong,,,,,605,619
+Yang_Wo,,,,,886,908
 Yashwant_Rao_Holkar_II,,Mumbai,British Raj,,1908,1961
 Yehenara_Wanzhen,Primary Consort of Prince Chunxian,,,1,1841,1896
-Yelü_Bei,,,,,0899,0937
+Yelü_Bei,,,,,899,937
 Yevdokiya_Yusupova,Duchess of Courland,Saint Petersburg,Moscow,1,1743,1780
 Yicong,Prince Dun of the First Rank,Beijing,Beijing,,1831,1889
 "Yinzhi,_Prince_Zhi","['Prince Zhi of the Second Rank', '(直郡王)']",,,,1672,1734
 "Yolande,_Duchess_of_Lorraine",,Nancy France,Nancy France,1,1428,1483
 Yolande_Palaeologina_of_Montferrat,,Chambéry,Moncalvo,1,1318,1342
-Zaharija_of_Serbia,"['Prince / Archont / Knez', 'of Serbs / Serbia']",,Stari Ras,,0890,0924
+Zaharija_of_Serbia,"['Prince / Archont / Knez', 'of Serbs / Serbia']",,Stari Ras,,890,924
 Zaitao,Beile,Beijing,Beijing,,1888,1970
 "Zaixun,_Prince_Zhuang",Prince Zhuang of the First Rank,Shanxi,Beijing,,1853,1901
 Zaiyi,Prince Duan of the Second Rank,,,,1856,1922
@@ -3358,14 +3358,14 @@ Zaize,Beizi,Beijing,Beijing,,1876,1929
 Zaizhen,Prince Qing of the First Rank,Tianjin,Beijing,,1876,1947
 Zein_al-Sharaf_Talal,,Switzerland,Sultanate of Egypt,1,1916,1994
 Zhang_Shicheng,,,,,1321,1367
-Zhao_Defang,,,,,0959,0981
-Zhao_Dezhao,,,,,0951,0979
-Zhao_Yuanyan,,,,,0985,1044
+Zhao_Defang,,,,,959,981
+Zhao_Dezhao,,,,,951,979
+Zhao_Yuanyan,,,,,985,1044
 Zhenjin,,,,,1243,1286
-Zhu_Ci,,,,,0743,0784
+Zhu_Ci,,,,,743,784
 Zhu_Yihai,,,,,1618,1662
-Zhu_Yougui,,,,,0888,0913
+Zhu_Yougui,,,,,888,913
 Zhu_Youyuan,,,,,1476,1519
-Zhu_Youzhen,,,,,0888,0923
+Zhu_Youzhen,,,,,888,923
 Zhu_Zaiyu,,,,,1536,1611
 Zinat_Mahal,,Yangon,,1,1823,1886
