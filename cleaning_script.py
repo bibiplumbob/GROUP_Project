@@ -57,7 +57,7 @@ for dict in royal_data:
         #ontology/title,
         #ontology/deathPlace_label -- new key pick the last value in the list
             #Death_place
-        #ontology/birthPlace_label -- split this and pick the last value in the list
+        #ontology/birthPlace_label -- new key pick the last value in the list
             #Birth_place
         #ontology/spouse_label -- count the number of strings
             #Num_Spouses
