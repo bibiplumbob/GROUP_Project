@@ -36,11 +36,10 @@ line_plot <- line_plot + labs (title = 'Average Lifespan of Royals Across Centur
 #print(line_plot)
 
 #PART4: Scatter Plot
-windowsFonts(A = windowsFont("Sans Serif"))
 scatter_plot <- ggplot(data = life_mutated)+
   aes(x = birthyear, y = life, color = as.factor(num_spouses)) +
   geom_point()+
-  theme_grey()+
+  theme_grey(base_family = "sans")+
   ylim(c(0,110))+
   xlim(c(1000, 2000))+
   geom_line(data = grouped_by_century, mapping = aes(y=avg_lifespan, x = century *100), size=1.2, color = "#1B762E")

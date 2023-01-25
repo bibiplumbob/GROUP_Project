@@ -23,8 +23,8 @@ for label in royal_data:
         del label['ontology/birthPlace']
     if 'ontology/deathPlace' in label:
         del label['ontology/deathPlace']
-    if 'ontology/country' in label:
-        del label['ontology/country']
+   # if 'ontology/country' in label:
+    #    del label['ontology/country']
     if 'ontology/successor' in label:
         del label['ontology/successor']
     if 'ontology/predecessor' in label:
@@ -35,13 +35,19 @@ for label in royal_data:
         del label['ontology/occupation']
 
 counting_set = []
+counter = 0
+#for dict in royal_data:
+ #   if "title" in dict:
+  #      split_list = dict["title"].split('_')
+   #     if "Prince" in split_list:
+    #        print(dict["title"])
+     #       counting_set.append(dict["title"])
+      #  elif "Princess" in split_list:
+       #     print(dict["title"])
+        #    counting_set.append(dict["title"])
 for dict in royal_data:
-    if "title" in dict:
-        split_list = dict["title"].split('_')
-        if "Prince" in split_list:
-            print(dict["title"])
-            counting_set.append(dict["title"])
-        elif "Princess" in split_list:
-            print(dict["title"])
-            counting_set.append(dict["title"])
-print(len(counting_set))
+    if "ontology/country" in dict:
+        counter += 1
+
+
+print(counter)
