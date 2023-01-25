@@ -37,3 +37,11 @@ for label in royal_data:
 #Playing around with country set
 with open('country_data.json') as f:
     country = json.load(f)
+
+country_set = set()
+for dict in country:
+    if 'Name' in dict:
+        if dict['Name'] not in country_set:
+            country_set.add(dict['Name'])
+
+print(country_set)

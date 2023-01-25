@@ -25,8 +25,8 @@ for dict in attempt_dict:
 for dict in attempt_dict:
     if "attempt" in dict:
         split = dict["attempt"].split('_')
-    if "test" or "tests" in split:
-        print(dict["attempt"])
+    #if "test" or "tests" in split:
+        #print(dict["attempt"])
 
 #trying dictwriter on this set 
 #import csv
@@ -36,3 +36,17 @@ for dict in attempt_dict:
   #  writer.writeheader()
    # for dict in attempt_dict:
     #    writer.writerow(dict)
+
+#Experimental -- comparing to another set to create a new set
+compare = {"croissant", "carbonara", "coffee"}
+manual_group = []
+for dict in attempt_dict:
+    if "words" in dict:
+        for key in dict:
+            if dict["words"] in compare:
+                dict["food_status"] = "my_fave"
+            else:
+                manual_group.append(dict)
+
+print(attempt_dict)                
+
