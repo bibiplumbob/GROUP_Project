@@ -1,6 +1,7 @@
 library(tidyverse)
 library(ggthemes)
 
+
 royal_data = read_csv("final_royal.csv")
 
 #renaming columns
@@ -30,4 +31,4 @@ violin_plot <- royals_age |>
 
 print(violin_plot)
 
-ggsave("spouse_lifespan_violin.pdf")
+ggsave("spouse_lifespan_violin.")
