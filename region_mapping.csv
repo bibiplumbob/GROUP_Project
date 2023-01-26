@@ -15,11 +15,11 @@ Brazil,South America,South America
 Switzerland,West Europe,Europe
 Croatia,South Europe,Europe
 Germany,West Europe,Europe
-Egypt,Middle East,Africa
+Egypt,North Africa,Africa
 Bulgaria,South Europe,Europe
-Qatar,Middle East,Asia
-Saudi Arabia,Middle East,Asia
-Yemen,Middle East,Asia
+Qatar,West Asia,Asia
+Saudi Arabia,West Asia,Asia
+Yemen,West Asia,Asia
 India,South Asia,Asia
 Finland,North Europe,Europe
 Thailand,Southeast Asia,Asia
@@ -33,16 +33,16 @@ Tonga,Polynesia,Oceania
 Cuba,Caribbean,North America
 Sierra Leone,West Africa,Africa
 Morocco,North Africa,Africa
-Iraq,Middle East,Asia
+Iraq,West Asia,Asia
 United States,North America,North America
-Mozambique,South Africa,Africa
+Mozambique,Southern Africa,Africa
 Greece,South Europe,Europe
 Norway,North Europe,Europe
-Kuwait,Middle East,Asia
+Kuwait,West Asia,Asia
 Namibia,Southern Africa,Africa
 Uzbekistan,Central Asia,Asia
 Portugal,South Europe,Europe
-Turkey,Middle East,Europe
+Turkey,West Asia,Asia
 Haiti,Caribbean,North America
 Philippines,Southeast Asia,Asia
 Afghanistan,South Asia,Asia
