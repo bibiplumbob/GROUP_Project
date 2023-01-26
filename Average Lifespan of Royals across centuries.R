@@ -20,11 +20,13 @@ grouped_by_century <- life_mutated |>
   summarise(avg_lifespan = mean(life))
 
 
+print(grouped_by_century)
+
 #PART3: Average Plot
 line_plot <- ggplot(data = grouped_by_century)+
   aes (x = century, y = avg_lifespan)+
   geom_line()+
-  theme_grey()+
+  theme_grey(base_family = "sans")+
   ylim(c(0,80))+
   xlim(c(9, 20))
 
@@ -49,5 +51,5 @@ scatter_plot <- scatter_plot + labs (title = 'Lifespan of Royals during A.D. 100
                                y = 'Life Span',
                                color = "Number of Spouses")
 
-#print(scatter_plot)
+print(scatter_plot)
 
