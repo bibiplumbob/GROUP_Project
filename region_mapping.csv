@@ -1,59 +1,59 @@
-birthCountry,region
-United Kingdom,West Europe
-Poland,East Europe
-Italy,South Europe
-Hungary,East Europe
-Spain,South Europe 
-Austria,East Europe
-Denmark,North Europe
-France,West Europe
-Czech Republic,East Europe
-Cyprus,South Europe
-Belgium,West Europe
-Netherlands,West Europe
-Brazil,South America
-Switzerland,West Europe
-Croatia,South Europe
-Germany,West Europe
-Egypt,Middle East
-Bulgaria,South Europe
-Qatar,Middle East
-Saudi Arabia,Middle East
-Yemen,Middle East
-India,South Asia
-Finland,North Europe
-Thailand,Southeast Asia
-China,East Asia
-Sweden,North Europe
-Slovakia,East Europe
-Romania,East Europe
-Monaco,South Europe
-Latvia,North Europe
-Tonga,Polynesia
-Cuba,Caribbean
-Sierra Leone,West Africa
-Morocco,North Africa
-Iraq,Middle East
-United States,North America
-Mozambique,South Africa
-Greece,South Europe
-Norway,North Europe
-Kuwait,Middle East
-Namibia,Southern Africa
-Uzbekistan,Central Asia
-Portugal,South Europe
-Turkey,Middle East
-Haiti,Caribbean
-Philippines,Southeast Asia
-Afghanistan,South Asia
-Ireland,West Europe
-Cambodia,Southeast Asia
-Japan,East Asia
-Serbia,East Europe
-Montenegro,South Europe
-Luxembourg,West Europe
-Madagascar,East Africa
-Nigeria,West Africa
-Jamaica,Caribbean
-Armenia,Central Asia
-Albania,South Europe
+birthCountry,region,continent
+United Kingdom,West Europe,Europe
+Poland,East Europe,Europe
+Italy,South Europe,Europe
+Hungary,East Europe,Europe
+Spain,South Europe,Europe 
+Austria,East Europe,Europe
+Denmark,North Europe,Europe
+France,West Europe,Europe
+Czech Republic,East Europe,Europe
+Cyprus,South Europe,Europe
+Belgium,West Europe,Europe
+Netherlands,West Europe,Europe
+Brazil,South America,South America
+Switzerland,West Europe,Europe
+Croatia,South Europe,Europe
+Germany,West Europe,Europe
+Egypt,Middle East,Africa
+Bulgaria,South Europe,Europe
+Qatar,Middle East,Asia
+Saudi Arabia,Middle East,Asia
+Yemen,Middle East,Asia
+India,South Asia,Asia
+Finland,North Europe,Europe
+Thailand,Southeast Asia,Asia
+China,East Asia,Asia
+Sweden,North Europe,Europe
+Slovakia,East Europe,Europe
+Romania,East Europe,Europe
+Monaco,South Europe,Europe
+Latvia,North Europe,Europe
+Tonga,Polynesia,Oceania
+Cuba,Caribbean,North America
+Sierra Leone,West Africa,Africa
+Morocco,North Africa,Africa
+Iraq,Middle East,Asia
+United States,North America,North America
+Mozambique,South Africa,Africa
+Greece,South Europe,Europe
+Norway,North Europe,Europe
+Kuwait,Middle East,Asia
+Namibia,Southern Africa,Africa
+Uzbekistan,Central Asia,Asia
+Portugal,South Europe,Europe
+Turkey,Middle East,Europe
+Haiti,Caribbean,North America
+Philippines,Southeast Asia,Asia
+Afghanistan,South Asia,Asia
+Ireland,West Europe,Europe
+Cambodia,Southeast Asia,Asia
+Japan,East Asia,Asia
+Serbia,East Europe,Europe
+Montenegro,South Europe,Europe
+Luxembourg,West Europe,Europe
+Madagascar,East Africa,Africa
+Nigeria,West Africa,Africa
+Jamaica,Caribbean,North America
+Armenia,Central Asia,Asia
+Albania,South Europe,Europe
