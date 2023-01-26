@@ -33,7 +33,7 @@ line_plot <- line_plot + labs (title = 'Average Lifespan of Royals Across Centur
                                      x = 'Centuries',
                                      y = 'Average Life Span')
 
-#print(line_plot)
+print(line_plot)
 
 #PART4: Scatter Plot
 scatter_plot <- ggplot(data = life_mutated)+
@@ -49,5 +49,5 @@ scatter_plot <- scatter_plot + labs (title = 'Lifespan of Royals during A.D. 100
                                y = 'Life Span',
                                color = "Number of Spouses")
 
-print(scatter_plot)
+#print(scatter_plot)
 
