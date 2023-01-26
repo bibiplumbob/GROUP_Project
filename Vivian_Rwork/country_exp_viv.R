@@ -40,15 +40,17 @@ print(royals_country)
 #violin plot
 royals_violin <- ggplot(data = filtered_count)+
   aes(x = region, y = lifespan)+
-  geom_violin() +
-  geom_text(aes(label=after_stat(count)), stat="count", size = 3.5, y=5)+
+  geom_violin(fill = '#B3DAF1') +
+  geom_text(aes(label=after_stat(count)), stat="count", size = 3.5, y=5, color = 'white')+
   theme(text = element_text(family = 'sans'))+
   labs(title = "Lifespan across birth regions",
        subtitle = "A European region subanalysis",
        fill = "Region")+
-  xlab("Country of Birth")+
+  xlab("Region of Birth")+
   ylab("Lifespan (years)")+
   geom_boxplot(width = 0.1)+
   coord_flip()  
   
 print(royals_violin)
+
+#ggsave("birth_region_lifespan.pdf")
