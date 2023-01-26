@@ -49,8 +49,9 @@ royals_violin <- ggplot(data = filtered_count)+
   xlab("Region of Birth")+
   ylab("Lifespan (years)")+
   geom_boxplot(width = 0.1)+
+  stat_summary(fun.y=mean, geom="point", size=2.5, color="#F5AD94")+
   coord_flip()  
   
 print(royals_violin)
 
-#ggsave("birth_region_lifespan.pdf")
+ggsave("birth_region_lifespan.pdf")
