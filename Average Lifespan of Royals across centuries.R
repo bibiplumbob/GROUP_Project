@@ -31,25 +31,25 @@ line_plot <- ggplot(data = grouped_by_century)+
   xlim(c(9, 20))
 
 
-line_plot <- line_plot + labs (title = 'Average Lifespan of Royals Across Centuries',
-                                     x = 'Centuries',
+line_plot <- line_plot + labs (x = 'Centuries',
                                      y = 'Average Life Span')
 
 print(line_plot)
 
-#PART4: Scatter Plot
-scatter_plot <- ggplot(data = life_mutated)+
-  aes(x = birthyear, y = life, color = as.factor(num_spouses)) +
+
+#PART5: Line graphs for different number of spouses
+
+spouses_lineplot <- ggplot(data = life_mutated)+
+  aes(x = birthyear, y = life) +
   geom_point()+
   theme_grey(base_family = "sans")+
   ylim(c(0,110))+
   xlim(c(1000, 2000))+
-  geom_line(data = grouped_by_century, mapping = aes(y=avg_lifespan, x = century *100), size=1.2, color = "#1B762E")
+  geom_line(data = grouped_by_spouses, mapping = aes(y=avg_spouselifespan, x = century *100, color = as.factor(num_spouses)), linewidth=1.2)
 
-scatter_plot <- scatter_plot + labs (title = 'Lifespan of Royals during A.D. 1000-2000',
-                               x = 'Birth Year',
-                               y = 'Life Span',
-                               color = "Number of Spouses")
+spouses_lineplot <- spouses_lineplot + labs (
+                                     x = 'Birth Year',
+                                     y = 'Average Life Span',
+                                     color = "Number of Spouses")
 
-print(scatter_plot)
-
+#print(spouses_lineplot)

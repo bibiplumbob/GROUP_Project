@@ -26,8 +26,7 @@ royals_country <- ggplot(data = filtered_count)+
            fun = "mean") +
   geom_text(aes(label=after_stat(count)), stat="count", size = 2, y=3)+
   theme(text = element_text(family = 'sans'))+
-  labs(title = "Lifespan across birth regions",
-       subtitle = "A Europe subanalysis",
+  labs(
        fill = "Region")+
   xlab("Country of Birth")+
   ylab("Lifespan (years)")+
@@ -43,8 +42,7 @@ royals_violin <- ggplot(data = filtered_count)+
   geom_violin(fill = '#B3DAF1') +
   geom_text(aes(label=after_stat(count)), stat="count", size = 3.5, y=5, color = 'white')+
   theme(text = element_text(family = 'sans'))+
-  labs(title = "Lifespan across birth regions",
-       subtitle = "A European region subanalysis",
+  labs(
        fill = "Region")+
   xlab("Region of Birth")+
   ylab("Lifespan (years)")+
@@ -52,6 +50,6 @@ royals_violin <- ggplot(data = filtered_count)+
   stat_summary(fun.y=mean, geom="point", size=2.5, color="#F5AD94")+
   coord_flip()  
   
-print(royals_violin)
+#print(royals_violin)
 
-ggsave("birth_region_lifespan.pdf")
+#ggsave("birth_region_lifespan.pdf")

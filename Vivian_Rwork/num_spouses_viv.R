@@ -21,14 +21,12 @@ violin_plot <- royals_age |>
   filter(!is.na(num_spouses))|>
   filter(num_spouses <= 3)|>
   ggplot()+
-  aes(x = as.factor(num_spouses), y = lifespan)+
-  geom_violin(fill = "#B3DAF1",
-              show.legend = FALSE)+
+  aes(x = as.factor(num_spouses), y = lifespan, fill = as.factor(num_spouses))+
+  geom_violin(show.legend = FALSE)+
   theme(text = element_text(family = "sans"))+
-  labs(title = "Impact of number of spouses on the lifespan of royalty")+
   xlab("Number of spouses")+
   ylab("Lifespan in Years")+
-  geom_boxplot(width = 0.1)
+  geom_boxplot(width = 0.1, fill = "white")
 
 print(violin_plot)
 

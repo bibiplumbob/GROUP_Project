@@ -80,7 +80,7 @@ line_figure <- ggplot() +
   geom_line(data = grouped_by_century, aes(y = avg_lifespan), color = "#DF3B3B", size=1.2)+
   geom_line(data = noble_file, aes(y=noble_life_expectancy), color= "#3B88DF", size=1.2)+
   xlim(c(1000, 2000))+
-  labs(title = 'Lifespan of Various Social Groups 1000-2000 AD',
+  labs(
                                                 x = 'Birth Year',
                                                 y = 'Life Span')
 
